@@ -1,11 +1,15 @@
 .navheight{
     height: 70px;
-   background-image: linear-gradient(rgb(133, 1, 1),rgb(4, 44, 11));
+   background-image: linear-gradient(rgb(7, 48, 110),rgb(14, 4, 59));
     
+}
+.meet{
+  
+  margin-top: 6px;
 }
 .textsize{
     /* background-color: rgb(150, 6, 107); */
-    background-image: linear-gradient(rgb(252, 229, 21),rgb(252, 150, 16));
+    background-image: linear-gradient(rgb(60, 204, 248),rgb(3, 103, 218));
     
     margin-left: 10px;
     margin-right: 20px;
@@ -20,12 +24,15 @@
     font-size: medium;
     padding: 3px;
     color:rgb(202, 238, 214);
-    background-color:#8a0209;
+    background-color:#060861;
 }
+
+
+
 .text-col{
    color:hsl(257, 83%, 7%);
    font-size: x-large;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 
@@ -36,7 +43,7 @@
     color: rgb(240, 196, 196);
     margin-left: 2px;
     transform: skew(-20deg);
-    background-image: linear-gradient(rgb(250, 196, 17),rgb(218, 117, 3));
+    background-image: linear-gradient(rgb(60, 204, 248),rgb(3, 103, 218));
   }
 .batsman{
     margin-top: -2px;
@@ -69,19 +76,17 @@
     color: rgb(247, 238, 238);
     margin-left: 10px;
    
-    background-image: linear-gradient(rgb(133, 1, 1),rgb(4, 44, 11));
+    background-image: linear-gradient(rgb(7, 48, 110),rgb(14, 4, 59));
 
 
   }
 
   .parallelogram2{
-    
     width: 200px;
     height: 55px;
     color: black;
     margin-left: 10px;
-   
-    background-color:#eca10b;;
+    background-color:#0fa9f0;;
     
   }
   .bowler{
@@ -97,7 +102,7 @@
   }
   .hidee{
       
-      color:#eca10b;
+    color:#0fa9f0;;
   }
   .circle{
       
@@ -116,5 +121,5 @@
   }
   .move{
       padding: 5px;
-      padding-left: 29px;
+      padding-left: 26px;
   }
