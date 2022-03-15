@@ -1,0 +1,133 @@
+.navheight{
+    height: 65px;
+    background-color: rgb(37, 10, 65);
+    
+}
+.textsize{
+    /* background-color: rgb(150, 6, 107); */
+    background-image: linear-gradient(rgb(101, 173, 255),rgb(2, 173, 252));
+    
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: medium;
+    font-weight: 700;
+    
+}
+.team{
+    font-size: medium;
+    padding: 3px;
+    color:rgb(15, 167, 255);
+    background-color:#250a41;
+}
+.text-col{
+   color:hsl(257, 83%, 7%);
+   font-size: larger;
+    font-weight: 700;
+}
+
+.meet{
+    margin-top: 6px;
+    margin-left:-60;
+}
+.texcol{
+    border-radius: 4px;
+    width: 20px;
+    height: 10px;
+    padding: 3px;
+    transform: skew(-20deg);
+
+    font-size: large;
+    background-image: linear-gradient(rgb(44, 145, 240),rgb(255, 147, 7));
+    color: rgb(232, 238, 247);
+}
+.texcol1{
+    border-radius: 4px;
+    padding: 3px;
+    font-size: large;
+    background-image: linear-gradient(red,green);
+    color: rgb(243, 223, 223);
+}
+.texcol2{
+    color: rgb(185, 189, 196);
+    padding: 5px;
+    font-size:small
+}
+.parallelogram {
+    margin-top: 3px;
+    width: 200px;
+    height: 45px;
+    color: black;
+    margin-left: 2px;
+    transform: skew(-20deg);
+    background: rgb(6, 150, 233);
+  }
+.batsman{
+    margin-top: -4px;
+    font-weight: 700;
+    color: black;
+    transform: skew(20deg);
+  }
+  
+  .batsman1{
+    margin-top: -4px;
+    font-weight: 700;
+    color: black;
+    transform: skew(20deg);
+  }
+  .runneed{
+   
+    font-weight: 600;
+    color: rgb(164, 209, 247);
+    
+  }
+
+  .parallelogram1 {
+    
+    width: 200px;
+    height: 50px;
+    color: rgb(175, 172, 172);
+    margin-left: 10px;
+   
+    background: #250a41;
+  }
+
+  .parallelogram2{
+    
+    width: 200px;
+    height: 50px;
+    color: black;
+    margin-left: 10px;
+   
+    background:rgb(6, 150, 233);
+    
+  }
+  .bowler{
+    margin-top: -4px;
+    font-weight: 600;
+    color: #250a41;
+
+  }
+  .totalover{
+    font-size: small;
+   
+  }
+  .hidee{
+      color:rgb(6, 150, 233);
+  }
+  .circle{
+      
+      width: 18px;
+      height: 18px;
+      
+      float:left;
+      border-radius: 50px;
+      margin-right: 2px;
+      background-color:#250a41;
+      color: rgb(164, 209, 247);
+  }
+  .move{
+      padding: 5px;
+      padding-left: 25px;
+  }
