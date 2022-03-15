@@ -1,11 +1,11 @@
 .navheight{
-    height: 65px;
-    background-color: rgb(37, 10, 65);
+    height: 70px;
+   background-image: linear-gradient(rgb(133, 1, 1),rgb(4, 44, 11));
     
 }
 .textsize{
     /* background-color: rgb(150, 6, 107); */
-    background-image: linear-gradient(rgb(101, 173, 255),rgb(2, 173, 252));
+    background-image: linear-gradient(rgb(252, 229, 21),rgb(252, 150, 16));
     
     margin-left: 10px;
     margin-right: 20px;
@@ -16,62 +16,40 @@
     
 }
 .team{
+    border-radius: 2px;
     font-size: medium;
     padding: 3px;
-    color:rgb(15, 167, 255);
-    background-color:#250a41;
+    color:rgb(202, 238, 214);
+    background-color:#8a0209;
 }
 .text-col{
    color:hsl(257, 83%, 7%);
-   font-size: larger;
+   font-size: x-large;
     font-weight: 700;
 }
 
-.meet{
-    margin-top: 6px;
-    margin-left:-60;
-}
-.texcol{
-    border-radius: 4px;
-    width: 20px;
-    height: 10px;
-    padding: 3px;
-    transform: skew(-20deg);
 
-    font-size: large;
-    background-image: linear-gradient(rgb(44, 145, 240),rgb(255, 147, 7));
-    color: rgb(232, 238, 247);
-}
-.texcol1{
-    border-radius: 4px;
-    padding: 3px;
-    font-size: large;
-    background-image: linear-gradient(red,green);
-    color: rgb(243, 223, 223);
-}
-.texcol2{
-    color: rgb(185, 189, 196);
-    padding: 5px;
-    font-size:small
-}
 .parallelogram {
-    margin-top: 3px;
+    margin-top: 0px;
     width: 200px;
-    height: 45px;
-    color: black;
+    height: 55px;
+    color: rgb(240, 196, 196);
     margin-left: 2px;
     transform: skew(-20deg);
-    background: rgb(6, 150, 233);
+    background-image: linear-gradient(rgb(250, 196, 17),rgb(218, 117, 3));
   }
 .batsman{
-    margin-top: -4px;
+    margin-top: -2px;
+    font-size: large;
     font-weight: 700;
     color: black;
     transform: skew(20deg);
   }
   
   .batsman1{
-    margin-top: -4px;
+    
+    font-size: large;
+    margin-top: -2px;
     font-weight: 700;
     color: black;
     transform: skew(20deg);
@@ -79,33 +57,37 @@
   .runneed{
    
     font-weight: 600;
-    color: rgb(164, 209, 247);
+    font-size: large;
+    color: rgb(235, 239, 241);
     
   }
 
   .parallelogram1 {
-    
+    margin-top:-3px;
     width: 200px;
-    height: 50px;
-    color: rgb(175, 172, 172);
+    height: 55px;
+    color: rgb(247, 238, 238);
     margin-left: 10px;
    
-    background: #250a41;
+    background-image: linear-gradient(rgb(133, 1, 1),rgb(4, 44, 11));
+
+
   }
 
   .parallelogram2{
     
     width: 200px;
-    height: 50px;
+    height: 55px;
     color: black;
     margin-left: 10px;
    
-    background:rgb(6, 150, 233);
+    background-color:#eca10b;;
     
   }
   .bowler{
+      font-size: large;
     margin-top: -4px;
-    font-weight: 600;
+    font-weight: 700;
     color: #250a41;
 
   }
@@ -114,20 +96,25 @@
    
   }
   .hidee{
-      color:rgb(6, 150, 233);
+      
+      color:#eca10b;
   }
   .circle{
       
-      width: 18px;
-      height: 18px;
-      
+      width: 23px;
+      height: 23px;
       float:left;
       border-radius: 50px;
       margin-right: 2px;
       background-color:#250a41;
-      color: rgb(164, 209, 247);
+      color: rgb(238, 246, 253);
+  }
+  .totalover1{
+    font-size: small;
+    padding-left: 1px;
+    margin-top: 4px;
   }
   .move{
       padding: 5px;
-      padding-left: 25px;
+      padding-left: 29px;
   }
